@@ -1,0 +1,24 @@
+3 tip navigator var.
+
+    Drawer Navigator    
+    BottomTabNavigator
+    StackNavigator (kullanılan)
+
+Install React Navigation:
+
+    npm install react-navigation
+
+
+Install Dependencies
+
+    expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+Install React Navigation Stack:
+
+    npm install react-navigation-stack @react-native-community/masked-view --legacy-peer-deps
+
+
+Install Axios:
+
+    npm install axios // networking library, built-in "fetch" de kullanılabilir.
